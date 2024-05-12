@@ -59,8 +59,8 @@ Challenger sobre libros propuesto por Alura
 
 <a href="#indice"><button>Ir al Índice</button></a>
 
-# <img src="tabla.png" width="80" height="80">Modelo Entidad Relación.
-<h2 id="seccion4">Modelo Entidad Relación.</h2>
+# <img src="tabla.png" width="80" height="80">Tabla en Postgres.
+<h2 id="seccion4">Tabla en Postgres.</h2>
 
 <a href="#indice"><button>Ir al Índice</button></a>
 
