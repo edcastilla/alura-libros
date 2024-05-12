@@ -16,8 +16,7 @@ Challenger sobre libros propuesto por Alura
   <li><a href="#seccion1">Instalación.</a></li>
   <li><a href="#seccion2">Software y Herramientas Utilizadas.</a></li>
   <li><a href="#seccion3">Estructura del Proyecto.</a></li>
-  <li><a href="#seccion4">Modelo Entidad Relación.</a></li>
-  <li><a href="#seccion5">Postman.</a></li>
+  <li><a href="#seccion4">Tabla Postgres.</a></li>
   <li><a href="#seccion6">CRUD</a></li>
   <li><a href="#seccion7">GIT</a></li>
 </ol>
