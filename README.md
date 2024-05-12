@@ -20,8 +20,6 @@ Challenger sobre libros propuesto por Alura
   <li><a href="#seccion7">GIT</a></li>
 </ol>
 
-   
-
 
 # <img src="instalacion.png" width="80" height="80"> Instalación.
 <h2 id="seccion1">Instalación</h2>
@@ -53,7 +51,7 @@ Challenger sobre libros propuesto por Alura
 # <img src="carpeta.png" width="80" height="80">Estructura del proyecto.
 <h2 id="seccion3">Estructura del proyecto.</h2>
 
-<img src="IMAGENINTELLIJID.JPG" width="500" height="500">
+<img src="PROYECTO_LIBRO.JPG" width="500" height="500">
 
 <a href="#indice"><button>Ir al Índice</button></a>
 
