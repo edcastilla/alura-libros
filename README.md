@@ -17,7 +17,6 @@ Challenger sobre libros propuesto por Alura
   <li><a href="#seccion2">Software y Herramientas Utilizadas.</a></li>
   <li><a href="#seccion3">Estructura del Proyecto.</a></li>
   <li><a href="#seccion4">Tabla Postgres.</a></li>
-  <li><a href="#seccion6">CRUD</a></li>
   <li><a href="#seccion7">GIT</a></li>
 </ol>
 
@@ -62,24 +61,6 @@ Challenger sobre libros propuesto por Alura
 <h2 id="seccion4">Tabla en Postgres.</h2>
 
 <a href="#indice"><button>Ir al Índice</button></a>
-
-<h2 id="seccion6">CRUD</h2>
-<p><b>CRUD</b>  </p>
-<ol>
-  <li>GET<br> </li>
-  <li>POST</li>
-  <li>PUT</li>
-  <li>DELETE</li>
-</ol>
-
-```
-{
-  "Name": "John",
-  "email": "John@gmail.com",
-  "password":$2y$10$iDE0NJ2WjmqardL8zm1Zv.sM7vv8YMyS9tr4H3wIu37WqKiQP2H7K
-  "perfil":2
-}
-```
 <h2 id="seccion7">GIT</h2>
 <p><b> GIT</b> </p>
 <a href="#indice"><button>Ir al Índice</button></a> 
