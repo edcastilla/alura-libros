@@ -7,7 +7,7 @@ Challenger sobre libros propuesto por Alura
 <b><h2>Video de la aplicación:</h2></b>
 
 <b><h2>Desarrollo Challenger Libros:</h2></b>
-<p>Se utilizara la api de Gutendex para buscar informacion sobre libros en linea <br>https://gutendex.com/ </p>
+<p>Se utilizará la api de Gutendex para buscar informacion sobre libros en linea <br>https://gutendex.com/ </p>
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <h2 id="indice">Índice de la Página</h2>
