@@ -57,7 +57,8 @@ Challenger sobre libros propuesto por Alura
 
 # <img src="tabla.png" width="80" height="80">Tabla en Postgres.
 <h2 id="seccion4">Tabla en Postgres.</h2>
-
+<img src="pgadmin.JPG" width="500" height="500">
+<img src="psql.JPG" width="500" height="500">
 <a href="#indice"><button>Ir al Índice</button></a>
 <h2 id="seccion7">GIT</h2>
 <p><b> GIT</b> </p>
