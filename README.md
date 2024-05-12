@@ -30,7 +30,7 @@ Challenger sobre libros propuesto por Alura
 <div>
 <ol>
   <li>Clona este repositorio en tu máquina local:<br> git clone
-   https://github.com/edcastilla/Challenger-Foro--Alura</li>
+   [https://github.com/edcastilla/Challenger-Foro--Alura](https://github.com/edcastilla/alura-libros)</li>
   <li>Abre el proyecto en su IDE Favorito.</li>
   <li>Recuerda tener instalado Java en su sistema.</li>
 </ol>
