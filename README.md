@@ -5,9 +5,9 @@ Challenger sobre libros propuesto por Alura
 # <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
 <b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.</h3></b><br>
 <b><h2>Video de la aplicación:</h2></b>
-https://www.youtube.com/watch?v=GNavp28HDZM
-<b><h2>Desarrollo Challenger Foro:</h2></b>
-<p>Crearemos una API REST usando Spring.<br>CRUD (CREATE, READ, UPDATE, DELETE) </p>
+
+<b><h2>Desarrollo Challenger Libros:</h2></b>
+<p>Se utilizara la api de Gutendex para buscar informacion sobre libros en linea <br>https://gutendex.com/ </p>
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <h2 id="indice">Índice de la Página</h2>
