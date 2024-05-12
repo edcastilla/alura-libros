@@ -43,8 +43,7 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <ul>
     <li><b>IntelliJ id. link :&nbsp;https://www.jetbrains.com/es-es/idea/ </li>
     <li><b>Spring initializr. link :&nbsp;https://start.spring.io/</li>
-    <li><b>Spring Security. link :&nbsp;https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html</li>
-    <li><b>Mysql Workbench. link :&nbsp;https://www.mysql.com/products/workbench/</li>
+    <li><b>Postgres . link :&nbsp;https://www.postgresql.org/download/</li>
     <li><b>Postman. link :&nbsp;https://www.postman.com/</li>
     <li><b>Java 17. link :&nbsp;https://www.oracle.com/java/technologies/downloads/<br></li>
     <li><b>Spring data jpa. link :https://docs.spring.io/spring-data/jpa/reference/<br></li>
@@ -64,21 +63,6 @@ https://www.youtube.com/watch?v=GNavp28HDZM
 <h2 id="seccion4">Modelo Entidad Relación.</h2>
 
 <a href="#indice"><button>Ir al Índice</button></a>
-
-<div style="background-color: #e6f3ff; padding: 20px;">
-<img src="ENTIDAD_RELACION_MYSQLWORBENCH.JPG" width="500" height="500">
-</div>
-
-
-
-
-<img src="postman.png" width="80" height="80"><h1 style="color: #007bff;">Postman</h1>
-<a href="#indice"><button>Ir al Índice</button></a>
-<h2 id="seccion5">Postman.</h2>
-
-
-
-<img src="IMAGENPOSTMAN.JPG" width="500" height="300">
 
 <h2 id="seccion6">CRUD</h2>
 <p><b>CRUD</b>  </p>
