@@ -2,8 +2,8 @@
 Challenger sobre libros propuesto por Alura
 
 
-# <img src="challenger.png" width="80" height="80">Challenger-Foro--Alura.
-<b><h3>Bienvenidos al Challenger sobre el Foro propuesto por Alura.</h3></b><br>
+# <img src="challenger.png" width="80" height="80">Challenger-Libros-Alura.
+<b><h3>Bienvenidos al Challenger sobre Libros propuesto por Alura.</h3></b><br>
 <b><h2>Video de la aplicación:</h2></b>
 
 <b><h2>Desarrollo Challenger Libros:</h2></b>
