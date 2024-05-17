@@ -49,7 +49,7 @@ Challenger sobre libros propuesto por Alura
         <a href="https://www.oracle.com/java/technologies/downloads//">Java 17.</a>  
     <li><b>Spring data jpa. link :<br></li>
         <a href="https://docs.spring.io/spring-data/jpa/reference/">Spring data jpa.</a> 
-   <li><b>Maven Repository. link :&nbsp;https://mvnrepository.com/</li>
+   <li><b>Maven Repository. link :&nbsp;</li>
     <a href="https://mvnrepository.com/">Maven Repository.</a> 
 
 </ul>
