@@ -53,7 +53,7 @@ Challenger sobre libros propuesto por Alura
     <a href="https://mvnrepository.com/">Maven Repository.</a> 
 
 </ul>
-    <a href="https://mvnrepository.com/">Maven Repository.</a> 
+ 
 <a href="#indice"><button>Ir al Índice</button></a>
 
 
